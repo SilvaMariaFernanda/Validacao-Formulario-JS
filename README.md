@@ -1,2 +1,2 @@
 # Validacao-Formulario-JS
-Projeto simples feito como atividade da faculdade para praticar JavaScript. O foco foi validar campos de nome, e-mail e mensagem, além de exibir mensagens de erro e um contador de caracteres. Não houve preocupação com SEO ou acessibilidade neste momento.
+Este projeto foi desenvolvido como uma atividade da faculdade com o objetivo de praticar JavaScript. A ideia principal foi criar um formulário simples com validação básica dos campos de nome, e-mail e mensagem. Também foi adicionado um contador de caracteres no campo de mensagem. O foco foi entender como manipular elementos da página e aplicar validações usando JavaScript puro, sem se preocupar com detalhes de acessibilidade ou SEO neste momento.
